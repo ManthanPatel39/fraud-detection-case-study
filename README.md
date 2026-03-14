@@ -1,7 +1,5 @@
 # fraud-detection-case-study
 Fraud detection case study using machine learning on imbalanced financial transaction data.
-This repository contains my solution for the Accredian screening assignment focused on proactive fraud detection in financial transactions.
-
 ## Problem Statement
 The objective is to build a machine learning model to detect fraudulent transactions and derive actionable business insights for fraud prevention.
 
